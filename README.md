@@ -7,6 +7,8 @@ ASP.NET MVC 5 with CheckboxList 應用範例
 
 部落格文章：
 
+[ASP.NET MVC 5 with CheckboxList 應用範例](http://kevintsengtw.blogspot.tw/2014/06/aspnet-mvc-5-with-checkboxlist.html)
+
 
 ==================================================
 
