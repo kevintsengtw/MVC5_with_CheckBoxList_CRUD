@@ -1,0 +1,76 @@
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\WebApplication1.dll.config
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\WebApplication1.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\WebApplication1.pdb
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\Antlr3.Runtime.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\EntityFramework.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\Newtonsoft.Json.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Helpers.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Mvc.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Optimization.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.WebPages.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\WebGrease.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\EntityFramework.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Helpers.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Mvc.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Optimization.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.WebPages.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\Newtonsoft.Json.xml
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\EntityFramework.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Develope\Lab\ASP.NET MVC 5 - CheckboxList - Demo\demo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\EntityFramework.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\WebGrease.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\EntityFramework.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kevin\Documents\GitHub\MVC5_with_CheckBoxList_CRUD\demo\WebApplication1\obj\Debug\WebApplication1.pdb

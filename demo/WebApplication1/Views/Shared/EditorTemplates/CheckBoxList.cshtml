@@ -1,0 +1,56 @@
+﻿@using WebApplication1.Infrastructure.Enums
+@using WebApplication1.Infrastructure.Extensions
+@{
+    var require = false;
+    object validationMessage = string.Empty;
+
+    var validationAttributes = Html.GetUnobtrusiveValidationAttributes("");
+    if (validationAttributes.ContainsKey("data-val")
+        &&
+        validationAttributes.ContainsKey("data-val-required"))
+    {
+        require = true;
+        if (!validationAttributes.TryGetValue("data-val-required", out validationMessage))
+        {
+            validationMessage = "This field is required.";
+        }
+        validationAttributes.Add("required", "required");
+    }
+
+    var tagName = ViewData["TagName"] == null
+        ? "CheckBoxList"
+        : (string)ViewData["TagName"];
+
+    var checkboxItems = ViewData["CheckBoxItems"] == null
+        ? new List<SelectListItem>()
+        : (IEnumerable<SelectListItem>)ViewData["CheckBoxItems"];
+
+    var position = ViewData["Position"] == null
+        ? Position.Horizontal
+        : (Position)ViewData["Position"];
+
+    var numbers = 0;
+    if (ViewData["Numbers"] == null)
+    {
+        numbers = 1;
+    }
+    else if (!int.TryParse(ViewData["Numbers"].ToString(), out numbers))
+    {
+        numbers = 1;
+    }
+}
+
+@Html.CheckBoxList(
+    tagName,
+    checkboxItems,
+    new RouteValueDictionary(validationAttributes),
+    position,
+    numbers)
+
+@Html.ValidationMessage(tagName, 
+    "", 
+    new
+    {
+        @class = "text-danger", 
+        data_valmsg_for = tagName
+    })
